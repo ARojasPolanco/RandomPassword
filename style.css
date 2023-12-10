@@ -1,0 +1,20 @@
+body {
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+}
+
+.badge {
+    font-size: 15px;
+}
+
+.container_info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_info {
+    color: white;
+    font-size: 20px;
+}
